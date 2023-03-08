@@ -16,7 +16,7 @@
 .btn {
   padding: 5px 10px;
   background-color: yellow;
-  border: 2px solid orange;
+  border: 2px solid rgb(65, 50, 60);
   border-radius: 5px;
 }
 
